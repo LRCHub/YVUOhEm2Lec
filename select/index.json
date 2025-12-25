@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "サヨナラメーター／タメイキカウンター",
+  "base_artist": "DREAMS COME TRUE",
+  "createdAt": "2025-12-25T06:45:46.512358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サヨナラメーター／タメイキカウンター",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/01_サヨナラメーター_タメイキカウンター_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サヨナラメーター / タメイキカウンター",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_サヨナラメーター___タメイキカウンター_DREAMS_COME_TRUE.txt"
+    }
+  ]
+}
